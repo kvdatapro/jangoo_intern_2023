@@ -1,0 +1,11 @@
+To start working with Tableau, I needed some trivial data which could be used to plot basic graphs/charts. Instead of using a dataset found online,
+I decided to ask the people of Reddit a very important question: How many cups of tea do you consume daily.
+
+Here is the link to that question: 
+
+https://www.reddit.com/r/delhi/comments/13kzazu/how_many_cups_of_tea_do_you_consume_in_a_day/
+
+I got around 125 responses and plotted a bubble chart on Tableau using those responses.
+
+
+
